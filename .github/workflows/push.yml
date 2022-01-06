@@ -25,4 +25,4 @@ jobs:
         with:
           push: true
           file: docker/pulumi/Dockerfile
-          tags: handlerww/pulumi:go-v1.15.15
+          tags: handlerww/pulumi:v2.15.3-go-v1.15.15
